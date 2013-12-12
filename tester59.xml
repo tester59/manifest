@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="tester59/android_device_samsung_s7500_1" path="device/samsung_s7500/trebon" remote="cm-11.0" />
+  <project name="tester59/android_device_samsung_s7500_1" path="device/samsung/trebon" remote="cm-11.0" />
   <project name="tester59/android_device_samsung_msm7x27a-common_2" path="device/samsung/trebon" remote="github" revision="cm-11.0" />
   <project name="tester59/android_kernel_samsung_msm7x27a_2" path="kernel/samsung/trebon" remote="github" revision="cm-11.0" />
 </manifest>
